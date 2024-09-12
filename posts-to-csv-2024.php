@@ -2,7 +2,7 @@
 /*
 Plugin Name: Posts to csv 2024
 Description: Adds a custom post type 'Posts to csv 2024' with specific fields and saves to a CSV file.
-Version: 1.2
+Version: 1.0
 Author: Roman Cherkasov
 */
 
