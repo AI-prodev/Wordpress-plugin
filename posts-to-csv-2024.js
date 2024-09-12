@@ -1,3 +1,4 @@
+//This is the javascript file for image upload
 jQuery(document).ready(function($) {
     $('#upload_image_button').click(function(e) {
         e.preventDefault();
